@@ -1,0 +1,16 @@
+body {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.box {
+    width: 200px;
+    height: 200px;
+    background-color: black;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+#demo.toggle {
+    color: red;
+}
